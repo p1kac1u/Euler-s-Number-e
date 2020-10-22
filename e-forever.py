@@ -1,4 +1,4 @@
-3 run it in repl.it: https://repl.it/@p1kac1u/Eulers-Number-e#e-forever.py
+# run it in repl.it: https://repl.it/@p1kac1u/Eulers-Number-e#e-forever.py
 
 from decimal import Decimal, getcontext
 import math
