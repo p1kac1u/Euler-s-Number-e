@@ -24,3 +24,5 @@ e_txt = open(r"digits_of_e.txt", "a")
 digitsofe = str(e)
 e_txt.write(digitsofe)
 e_txt.close()
+
+print("Have a nice day. Goodbye")
