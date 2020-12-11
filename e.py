@@ -1,5 +1,3 @@
-# run it on repl.it: repl.it/@p1kac1u/Eulers-Number-e#e.py
-
 from decimal import Decimal, getcontext
 import math
 
