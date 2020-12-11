@@ -22,3 +22,5 @@ for n in range(1, iteration + 1):
   e += Decimal((1 / math.factorial(n)))
   error = Decimal(abs(Decimal(math.e) - Decimal(e))/Decimal(math.pi)*100)
   print(n, "|", e, "|", error, "%" )
+
+  print("Have a nice day. Goodbye")
